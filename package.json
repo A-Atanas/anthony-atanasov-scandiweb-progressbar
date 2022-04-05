@@ -3,9 +3,9 @@
 	"version": "0.0.1",
 	"license": "OSL-3.0",
 	"dependencies": {
-		"@scandipwa/scandipwa": "5.2.6",
-		"@scandipwa/scandipwa-scripts": "2.4.19",
 		"@scandipwa/eslint-config": "0.1.38",
+		"@scandipwa/scandipwa": "4.5.1",
+		"@scandipwa/scandipwa-scripts": "2.4.19",
 		"@tilework/mosaic": "0.1.4",
 		"@tilework/mosaic-craco": "0.0.5",
 		"postcss": "8.4.5"
